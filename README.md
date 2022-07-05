@@ -10,7 +10,7 @@
 
 3、翻页切换至SE设定界面。
 
-4、取消「標準のSE」勾选项，在下面的URL栏里填写：https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/[json文件名].json 
+4、取消「標準のSE」勾选项，在下面的URL栏里填写：https://raw.fastgit.org/chen310/tenhou-se-and-bg/fastgit/[json文件名].json 
 
 5、调节音量并试听效果后退出回到登录界面。
 
